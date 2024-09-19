@@ -1,0 +1,1 @@
+# Python-ile-QR-Code-Olusturma---URL-icin-QR-Kod-Uretme
